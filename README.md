@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "5297c2eb-fa22-4ff5-a732-7e08e95bd2d7",
+   "id": "1febfb46-f769-40cf-b748-9a945190596b",
    "metadata": {},
    "source": [
     "# Credit Card Fraud Detection\n",
@@ -57,7 +57,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "cf6b9acd-176f-4092-aec0-680289b94c7d",
+   "id": "3ab638a1-a176-4d81-8192-6ca7368b8326",
    "metadata": {},
    "outputs": [],
    "source": []
